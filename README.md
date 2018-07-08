@@ -1,5 +1,5 @@
 # GundamCard
-I have a created an Android card after watching Udacity's "Android Basics: User Interface" video.
+I have created an Android card after watching Udacity's "Android Basics: User Interface" video.
 
 <img src="/app/src/main/res/drawable/Gundam_Card_Screen_Shot.png" width="400">
 
